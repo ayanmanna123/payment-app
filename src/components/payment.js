@@ -14,7 +14,7 @@ export default function PaymentConfirmation({
       flexDirection: 'column',
       alignItems: 'center',
       justifyContent: 'center',
-      minHeight: '80vh',
+      minHeight: '120vh',
       backgroundColor: '#212529',
       color: '#fff',
       padding: '1rem'
@@ -35,11 +35,11 @@ export default function PaymentConfirmation({
       marginBottom: '1rem'
     },
     recipient: {
-      fontSize: '1.4rem',
+      fontSize: '1.1rem',
       marginBottom: '0.25rem'
     },
     recipientId: {
-      fontSize: '0.9rem',
+      fontSize: '0.7rem',
       color: '#6c757d',
       marginBottom: '2.5rem'
     },
