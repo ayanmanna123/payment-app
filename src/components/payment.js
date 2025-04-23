@@ -14,7 +14,7 @@ export default function PaymentConfirmation({
       flexDirection: 'column',
       alignItems: 'center',
       justifyContent: 'center',
-      minHeight: '120vh',
+      minHeight: '100vh',
       backgroundColor: '#212529',
       color: '#fff',
       padding: '1rem'
